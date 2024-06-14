@@ -1,0 +1,30 @@
+ul{background-color: aqua;
+ list-style:none ; 
+ border-radius: 18px;
+ padding: 6px;  
+margin: 0;
+overflow: hidden;
+}
+li{
+    float: left;
+}
+li a{
+    display: inline-block;
+    color: #000;
+    text-align: center;
+    padding: 18px 18px;
+    text-decoration: none;
+}
+li a:hover{
+    color: aqua;
+    background-color: aliceblue;
+    border-radius: 18px;
+}
+.nav-end{
+    float: right;
+}
+.active-link{
+    color: aqua;
+    background-color: aliceblue;
+    border-radius: 18px;
+}
