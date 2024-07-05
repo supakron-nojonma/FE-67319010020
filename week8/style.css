@@ -1,0 +1,46 @@
+.form-1{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: beige;
+    width: 300px;
+    height: 150px;
+    padding: 10px;
+    
+}
+.form-2{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: yellow;
+    width: 300px;
+    height: 150px;
+    padding: 10px;
+    
+}
+.form-3{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: greenyellow;
+    width: 300px;
+    height: fit-content;
+    padding: 10px;
+   
+}
+input{
+    color: #800000;
+    font-size: 20px;
+    border-radius: 10px;
+    border-style: double;
+}
+.hide{
+
+    display: none;
+}
+.unhide{
+
+}
